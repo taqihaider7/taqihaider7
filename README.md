@@ -8,7 +8,7 @@ Content Creator, learning Python, Machine learning, Data Science. I am intereste
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [taqihaider592@gmail.com](mailto:taqihaider592@gmail.com)
-* 🧠  I'm learning Deep Learning, Computer Vision and many more.
+* 🧠  I'm learning Deep Learning, Computer Vision and much more.
 * 🤝  I'm open to collaborating on Machine learning/Deep learning Projects
 
 <a href="https://www.github.com/taqihaider7" target="_blank" rel="noreferrer"><img
