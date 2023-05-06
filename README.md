@@ -6,7 +6,6 @@ Data Science, Machine learning Enthusiast, Instructor
 
 Content Creator, learning Python, Machine learning, Data Science. I am interested to work on applications of computer vision techniques for object detection, recognition in autonomous vehicles, UAV. Some time i also work on different projects like NLP, Data Analytics.
 
-* 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [taqihaider592@gmail.com](mailto:taqihaider592@gmail.com)
 * 🧠  I'm learning Deep Learning, Computer Vision and much more.
 * 🤝  I'm open to collaborating on Machine learning/Deep learning Projects
