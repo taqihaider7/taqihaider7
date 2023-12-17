@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Taqi Haider
 ===================================================================================================================================
 
-Data Science, Machine learning Enthusiast, Instructor
+Data Science, Machine learning Enthusiast
 -----------------------------------------------------
 
-Content Creator, learning Python, Machine learning, Data Science. I am interested to work on applications of computer vision techniques for object detection, recognition in autonomous vehicles, UAV. Some time i also work on different projects like NLP, Data Analytics.
+I sometime Creates Content related to Machine learning, Data Science, NLP, LLMs, Chatbots etc. I am interested to work in NLP, computer vision.
 
 * ✉️  You can contact me at [taqihaider592@gmail.com](mailto:taqihaider592@gmail.com)
 * 🧠  I'm learning Deep Learning, Computer Vision and much more.
