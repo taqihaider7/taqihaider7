@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Science, Machine learning Enthusiast
 -----------------------------------------------------
 
-I sometime Creates Content related to Machine learning, Data Science, NLP, LLMs, Chatbots etc. I am interested to work in NLP, computer vision.
+I sometime Creates Content related to Machine learning, Data Science, NLP, LLMs, Chatbots, etc. I work in NLP and computer vision.
 
-* ✉️  You can contact me at taqihaider592 at gmail.com
+* ✉️  You can contact me at taqihaider592 at gmail [dot] com
 * 🧠  I'm learning Deep Learning, Computer Vision and much more.
 * 🤝  I'm open to collaborating on Machine learning/Deep learning Projects
 
