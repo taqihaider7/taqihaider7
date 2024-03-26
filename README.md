@@ -6,7 +6,7 @@ Data Science, Machine learning Enthusiast
 
 I sometime Creates Content related to Machine learning, Data Science, NLP, LLMs, Chatbots etc. I am interested to work in NLP, computer vision.
 
-* ✉️  You can contact me at [taqihaider592@gmail.com](mailto:taqihaider592@gmail.com)
+* ✉️  You can contact me at taqihaider592 at gmail.com
 * 🧠  I'm learning Deep Learning, Computer Vision and much more.
 * 🤝  I'm open to collaborating on Machine learning/Deep learning Projects
 
